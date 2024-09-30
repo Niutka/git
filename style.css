@@ -67,3 +67,9 @@ pre {
 	border-radius: 3px;
 	overflow-x: auto;
 }
+
+.basic_commands{
+	margin-top: 0px;
+	text-align: justify;
+	max-width: 1220px;
+}
